@@ -1,11 +1,11 @@
 'use strict';
 
 function collectSameElements(collectionA, collectionB) {
-  const result = [];  
-  collectionA.forEach((key)=>Object.values(collectionB)[0].forEach((value)=> {
-  if ( key.key === value ){
-    result.push(key.key);
+  const finalCollection = [];  
+  collectionA.forEach((key)=>Object.values(collectionB)[0].forEach((collectionB_value)=> {
+  if ( key.key === collectionB_value ){
+    finalCollection.push(key.key);
   }
   }));
-  return result;
+  return finalCollection;
 }
