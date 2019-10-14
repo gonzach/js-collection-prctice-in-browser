@@ -3,8 +3,10 @@
 function countSameElements(collection) {
   const item_count = {};
   collection.forEach((item)=>{
-    item_count[item] = item_count[item] + 1 || 1
+    console.log(item_count[item] = item_count[item] + 1 || 1);
  });
+ console.log(item_count);
+ //console.log(Object.entries(item_count));
   const new_Array = [];
   for (const [keys, count] of Object.entries(item_count)) {
     const len = keys.length;

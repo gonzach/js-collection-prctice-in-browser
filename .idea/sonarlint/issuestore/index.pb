@@ -5,3 +5,23 @@ V
 &practice/section-1/practice-1-run.html,e\f\ef2f78d68d34f0038b39ae6b8a7e3695f2dc034d
 P
  practice/section-1/practice-1.js,a\0\a06b2e21967ee9d71fb0144a2f3db396d1c97bbf
+U
+%practice/section-1/practice-4-spec.js,5\a\5ab56140185247d59d396a83cd221ce2a229a81c
+P
+ practice/section-3/practice-1.js,3\9\391c4918ade8f0f755122a426a5103cc7e09697d
+U
+%practice/section-3/practice-1-spec.js,9\f\9f9a950f302a889aea7911902250f0ad382c3f62
+P
+ practice/section-1/practice-2.js,9\d\9de8799a8fdd339d59bd0bfae2f707a26ce1e689
+P
+ practice/section-1/practice-3.js,4\e\4e9eabcac4aaef405d52fd8572e02099e261e867
+V
+&practice/section-1/practice-4-run.html,1\c\1c1ccf184c0e257c31c2efdc67fd48132cddb060
+P
+ practice/section-1/practice-4.js,0\5\055e412a21d722ec29b5bc453e59c90672c63026
+V
+&practice/section-2/practice-1-run.html,f\6\f6b724e9ce0f3b57f5e20ee3c1b6ca47b1a9b5bb
+U
+%practice/section-2/practice-1-spec.js,8\a\8a02d14bf9cee7f3fed70309c9daddf78eca37f1
+P
+ practice/section-2/practice-1.js,c\4\c4f38f24a7a3224c208d7b98cb043cb08e698f40
